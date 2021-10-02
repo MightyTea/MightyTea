@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MightyTea
 - 👀 I’m a young developper
-- 🌱 I’m currently HTML/CSS/JS
+- 🌱 I’m currently learning HTML/CSS/JS
 - 📫 How to reach me : Discord: My Tea#5059
 
 <!---
