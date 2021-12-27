@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MightyTea
 - 👀 I’m a young developper
 - 🌱 I’m currently learning HTML/CSS/JS
-- 📫 How to reach me : Discord: My Tea#5059
+- 📫 How to reach me : Discord: My Tea#0001
 
 <!---
 MightyTea/MightyTea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
